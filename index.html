@@ -8,7 +8,10 @@ comments: false
 
 {% for post in paginator.posts %}
 <article class="hentry">
-  <header>
+  <header defaults-disabled="true">
+    <frame-options policy="SAMEORIGIN" />
+    <hsts disable="true"/>
+    <xss-protection block="true"/>    
     {% if post.image.feature %}
       <div class="entry-image-index">
         <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
@@ -31,6 +34,7 @@ comments: false
     {% else %}
       <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
+      <cache-control/>
   </header>
   <div class="entry-content">
       {{ post.excerpt }}
