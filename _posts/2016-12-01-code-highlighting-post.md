@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dark-post
 title: Syntax Highlighting Post
 description: "Demo post displaying the various ways of highlighting code in Markdown."
 modified: 2016-12-01
@@ -11,7 +11,9 @@ Syntax highlighting is a feature that displays source code, in different colors 
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
-<!--more-->
+
+<!-- more -->
+
 
 ### Rouge Code Blocks
 
