@@ -11,6 +11,8 @@ Syntax highlighting is a feature that displays source code, in different colors 
 
 [^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
+<!--more-->
+
 ### Rouge Code Blocks
 
 To modify styling and highlight colors edit `/_sass/_rouge.scss`.
