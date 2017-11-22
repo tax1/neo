@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dark-post
 title: Sample Post
 description: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 modified: 2016-12-02
@@ -8,7 +8,10 @@ categories: [intro]
 image:
     feature: feature.jpg
     credit: dargadgetz
-    creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
+ creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
+
+excerpt : Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
