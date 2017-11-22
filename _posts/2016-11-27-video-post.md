@@ -12,6 +12,8 @@ categories: [intro]
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 
+<!--more-->
+
 Adding YouTube video embeds causes errors when building your Jekyll site. To fix wrap the html within `{::nomarkdown}` tags. Example below:
 
 {% highlight html %}
