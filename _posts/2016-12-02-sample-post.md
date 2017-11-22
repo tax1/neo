@@ -10,6 +10,7 @@ image:
     credit: dargadgetz
     creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
 
+
 ---
 
 
@@ -27,7 +28,9 @@ Below is just about everything you'll need to style in the theme. Check the sour
 
 ###### Heading 6
 
-<!-- more -->
+
+ <!-- more -->
+
 
 ### Body text
 
