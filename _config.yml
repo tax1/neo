@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://tax1.github.io/neo
+url: http://exploit.codelib.re
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -40,18 +40,18 @@ menu:
 # Owner/author information
 owner:
   name:           Tax1
-  site:           https://tax1.github.io/neo
+  site:           http://exploit.codelib.re
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: Tax1 # if no twitter in this config, the twitter follow button will be removed
+#   twitter: Tax1 # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   github: Tax1
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+# twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
