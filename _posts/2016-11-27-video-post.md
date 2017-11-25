@@ -26,22 +26,11 @@ Adding YouTube video embeds causes errors when building your Jekyll site. To fix
 
 ## Demo asciinema-player
 
-<asciinema-player src="/asciinema/demo.cast" id="asciicast-14" ></asciinema-player>
-
-## Demo asciinema-player with Fire.Json
-
-<!-- <asciinema-player src="/asciinema/fire.json"></asciinema-player> -->
-
-<script type="text/javascript" src="/asciinema/fire.json" id="asciicast-14" async></script>
-
-## Fresponsive Ifram Attaque world
+<asciinema-player src="/asciinema/fire.json" id="asciicast-14" ></asciinema-player>
 
 
-<figure class="half center">
+## Fresponsive Iframe Cybermap
 
-<iframe src="https://cybermap.kaspersky.com/" frameborder="0" scrolling="no" width="560" height="315"></iframe>
-
-</figure>
 
 <figure class="half center">
 
