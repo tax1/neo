@@ -30,8 +30,9 @@ Adding YouTube video embeds causes errors when building your Jekyll site. To fix
 
 ## Demo asciinema-player with Fire.Json
 
-<asciinema-player src="/asciinema/fire.json"></asciinema-player>
+<!-- <asciinema-player src="/asciinema/fire.json"></asciinema-player> -->
 
+<script type="text/javascript" src="/asciinema/fire.json" id="asciicast-14" async></script>
 
 
 
