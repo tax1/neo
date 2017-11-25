@@ -39,15 +39,3 @@ Adding YouTube video embeds causes errors when building your Jekyll site. To fix
 </figure>
 
 
-## tplmap
-
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-
-<figure class="half center">
-<div class="responsive-wrap">
-<iframe src="https://github.com/epinna/tplmap/" frameborder="0" scrolling="auto" width="336" height="566"></iframe>
-</div>
-</figure>
-
