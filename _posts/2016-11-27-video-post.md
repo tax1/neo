@@ -34,5 +34,19 @@ Adding YouTube video embeds causes errors when building your Jekyll site. To fix
 
 <script type="text/javascript" src="/asciinema/fire.json" id="asciicast-14" async></script>
 
+## Fresponsive Ifram Attaque world
+
+
+<figure class="half center">
+
+<iframe src="https://cybermap.kaspersky.com/" frameborder="0" scrolling="no" width="560" height="315"></iframe>
+
+</figure>
+
+<figure class="half center">
+
+<iframe src="https://cybermap.kaspersky.com/" frameborder="0" scrolling="no" width="336" height="566"></iframe>
+
+</figure>
 
 
