@@ -39,4 +39,10 @@ Adding YouTube video embeds causes errors when building your Jekyll site. To fix
 </figure>
 
 
+## IPLEAK
 
+<figure class="half center">
+
+<iframe src="https://ipleak.net/" frameborder="0" scrolling="no" width="336" height="566"></iframe>
+
+</figure>
